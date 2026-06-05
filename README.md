@@ -112,6 +112,9 @@ The original code used legacy MATLAB Communications Toolbox objects that are no 
 | Scripts (no functions)          | Refactored as functions with clear I/O   |
 
 ---
+## Related Project
+For ML-based BER prediction extending this work:
+🔗 [QAM-BER-Predictor](https://github.com/akshaytjadhav/QAM-BER-Predictor)
 
 ## References
 
